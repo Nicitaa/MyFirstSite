@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    background-color: #151515;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family:open sans-serif;
+}
+
+
+header {
+    background-color:#252525;
+    height: 100px;
+    box-shadow: -9px -6px 15px 2px rgba(0,0,0,0.8);
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+    padding-right:4%;
+}
+
+.headerInfo {
+    margin-left:1%;
+}
+
+.buttonAbout {
+    padding:10px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:blue;
+    color:white;
+    text-decoration:none;
+    border-radius:22px;
+    margin-right:25%;
+}
+
+.buttonAbout:hover {
+    background-color:#0000c6;
+}
+
+.mainInfo:hover {
+    color:gray;
+}
+
+.imageDiv {
+    background-color:rgb(59 59 59);
+    padding:5px;
+}
+
+.image {
+    width:60%;
+    height:30%;
+    object-fit:contain;
+}
+
+.mainHat {
+    width:100%;
+    height:90px;
+    font-family: Arial;
+    color:black;
+    display:flex;
+    justify-content:space-between;
+    line-height:25px;
+}
+
+.mainTitle {
+    padding-top: 10px;
+}
+
+.title {
+    color: red;
+    font-size:18px;
+}
+
+.mainInfo {
+    color:white;
+    text-decoration:none;
+    margin:5px;
+    margin-top:60px;
+}
+
+.imageInfo {
+    height:50px;
+    background-color:slategray;
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.imageText {
+    font-size: 24px;
+    color: aqua;
+    margin-left:10px;
+}
+
+.headline1 {
+    font-size:16px;
+    font-weight:300;
+}
+
+.headline2 {
+    font-size:22px;
+}
+
+.maps {
+    display:flex;
+    justify-content:space-between;
+}
+
+.googleMaps {
+    width: 1000px;
+    height: 400px;
+}
+
+.mapsInfo {
+    background-color:grey;
+}

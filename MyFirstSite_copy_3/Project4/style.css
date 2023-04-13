@@ -1,0 +1,79 @@
+body {
+    margin:0;
+    background-color:#262626;
+    padding-left:5%;
+    padding-right:5%;
+}
+
+header {
+    height: 100px;
+    background-color: #151515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -2px 1px 9px 3px #000000;
+}
+
+a {
+    color:white;
+    text-decoration:none;
+}
+
+.main_title {
+    line-height:10px;
+    font-family:Arial;
+}
+
+.title1 {
+    color:#606060;
+    font-weight:900;
+    font-size:28px;
+}
+
+.title2 {
+    color:red;
+    font-weight:300;
+    font-size: 20px;
+}
+
+.about_person {
+    display:flex;
+    align-items:flex-start;
+    background-color:#313131;
+}
+
+.imagePerson {
+    width:50%;
+    height:340px;
+    object-fit:contain;
+}
+
+.person_description {
+    font-family: 'Signika', sans-serif;
+    font-size:18px;
+    line-height:5px;
+    padding-left:10px;
+}
+
+.button {
+    background-color: #001fd5;
+    padding: 10px;
+    text-align:center;
+    border-radius: 16px;
+}
+
+.button:hover {
+        background-color: #0015b7;
+}
+
+.button_layout .button {
+    width:125px;
+    display: flex;
+    flex-direction: column;
+    margin-left:10px;
+    margin-top:10px;
+}
+
+.under_information {
+    color:white;
+}

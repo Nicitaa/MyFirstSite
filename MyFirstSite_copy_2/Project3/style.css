@@ -1,0 +1,104 @@
+/* thanks to doing this site I make my system how I name my classes
+    div - specific_name (main_title/about_Egor)
+    object - specificName (buttonAboutMe/linkNavigation)
+*/
+
+body {
+    margin:0;
+    background-color:#171717;
+    padding-left:5%;
+    padding-right:5%;
+    font-family:open sans-serif;
+}
+
+header {
+    height: 100px;
+    background-color: #303030;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right:30px;
+}
+
+a {
+        text-decoration: none;
+        color:white;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+.headerTitle {
+    position: absolute;
+    margin-right: 30%;    
+}
+
+.button {
+    background-color: #0000ff;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 22px;
+    text-align:center;
+    //justify-content:center; //i dont understand why it not set text at the center so text-alignt set text at the center horizontaly
+}
+
+.button:hover {
+        text-decoration: none;
+        background-color: #0000cb;
+}
+
+
+.linkNavigation {
+    margin-left:10px;
+}
+
+.main_title {
+    font-family: Arial;
+    width: 100%;
+    height: 60px;
+    line-height:15px;
+}
+
+.title1 {
+    color:#a0a0a0;
+    font-size:28px;
+    font-weight:800;
+}
+
+.title2 {
+    color:red;
+    font-size:18px;
+    font-weight:400;
+}
+
+.about_person {
+    background-color:#2f2f2f;
+    display:flex;
+    justify-content:flex-start;
+}
+
+.imgPerson {
+    width: 50%;
+    height:320px;
+    object-fit:contain;
+    margin-left:-20px;
+}
+
+.text_description {
+    line-height: 5px;
+    font-family: 'Signika', sans-serif;
+    font-size: 18px;
+}
+
+.buttons_layout .button {
+    width: 100px;
+    display: flex;
+    flex-flow: column;
+    margin-top: 15px;
+}
+
+.under_information {
+    color:white;
+}

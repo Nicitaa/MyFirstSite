@@ -1,0 +1,169 @@
+Used materials:
+
+       HTML und CSS Tutorial für Anfänger:https://www.youtube.com/watch?v=dOgFkZiVC8w&ab_channel=Programmierenlernen (undone)
+       CSS Kurs in 40 minuten:https://www.youtube.com/watch?v=I84aQhbJl_Y&ab_channel=Programmierenlernen (undone)
+       HTML in 20 minuten:https://www.youtube.com/watch?v=Q3MIitoSQkE&ab_channel=Programmierenlernen (undone)
+	   
+Comment:Very good explain all informaion have some structure and also with help this videos I create site like MyFirstSite_copy_4
+
+
+
+Gudie Introduction:
+	
+(add pictures for all of that)
+So to give result (say about my result how much I earn and show pictures of sites that wrote)
+you need (say how much hours you need and also in days is is (add in sony vegas 1h 2h 4h 8h per day=n month)
+also you need (say how much $ you need to donate for hosting and freelance)
+and also you need win 8.1 or higer to install node.js (you can also use win7 but autocomplete in .js files will not working)
+In this playlist you become a WEB FullStack developer
+WEB FullStack developer have next skills html css js (write other skills)
+If you want to write only frontend part or only backend you can just watch what you intersting to
+And make sure that you defenetly want to create web sites because you can also try
+1.Develop site like youtube facebook etc (say about fontend/backend/FullStack and also develop apps for mobiles like McDonalds OlympTrade etc it like web site)
+(but in app and feature that this site open in app is performance)
+2.Develop a program like notepad github or some program for corporation (it can be also web site desktop version like OlympTrade because you can use it in)
+(browser in your mobile phone and in desktop version)
+3.Develop a game like GTA 5 CS:GO Dota2 etc (say about you can make sound or graphic or code for this game as I know if you want create physic for game you need)
+(be good at mathematic also you can develop games in browser or for mobile)
+4.Also you can be not developer but similar to that you can be white hacker it like something about social engineering when you hack somebody like getting full
+acces to PC or mobile or get acces to the internet without password and than you say information how you do that to developer that specialize on cyber security
+also you can hack everything that you want what have acces to the internet or bluetooth and you can also write program that will do all things that you did to
+hack it like some hacking tools like WH for cs:go or some programm to hack internet but I think it not legal and I not recommend you do that
+
+
+
+
+FullStack WEB develop start
+
+Description:
+notepad++ - https://notepad-plus-plus.org/downloads/
+Sublime text 3 - https://drive.google.com/drive/folders/1jSc1E8Stz4zAO1uvIxMkan4uETEt7jS1?usp=sharing
+(say that you can also install all plugins below for VS code (it will be better when I show 2 videos in 1 screen in 1 how to install plugins for Sublime text 3)
+(and in second video how to instaal plugins for VS code)
+
+indent for clear code needed like this https://prnt.sc/ho2BVml6viNO
+
+Keybinds
+ {
+  	"keys": ["`"], "command": "reindent", "args": {"single_line": false}
+  },
+	{
+		"keys": ["ctrl+o"], "command": "prompt_open_folder"
+	},
+	{
+		"keys": ["ctrl+shift+o"], "command": "prompt_open_file"
+	},
+	https://prnt.sc/qqWJb20VInur
+	
+And this in Setting
+"update_check": false
+
+Emmet settings
+"emmet.includeLanguages": {
+		"javascript":"javascriptreact"
+	}
+	https://prnt.sc/XDpTFC5RfZyR
+	And also instal LSP and LSP TypeScript for autocomplete in js files
+How to set up Sublime text 3:
+(make video where I show how to install Sublime and sut up it)
+Download notepad++ and Sublime text 3 using link in the description
+
+Install Control Package - https://prnt.sc/4YDKLKVcGibM
+Dark theme - https://prnt.sc/yBs_bGkQN3iw - https://prnt.sc/4_hqKQbTPryU
+ctrl+shift+p - https://prnt.sc/jvU_l31ujeLY - https://prnt.sc/xBa5-xoGsc0x - https://prnt.sc/6-kj5tXNrH6d - https://prnt.sc/E25_lf_VgZcE - https://prnt.sc/E0ZZAzGmWo2W
+Text alignment - https://prnt.sc/2oJC6eX4zRPG or just paste code in the discription here https://prnt.sc/VW_ro5lYX119 - https://prnt.sc/9rS4Yg64gi6H - keybind - https://prnt.sc/kz-__mAo3JE8
+Theme - https://prnt.sc/tDxUf7-GzXm- - https://prnt.sc/1K1K5Un6Wdx-
+
+1.Write site with me firstly like I'm writing something and you repeat that
+2.Than try to write the same without video
+3.Than try to make that you writed better for example do it as you like change pictures or some text or make your own site using your knowlege
+(explain how you will develop a skill - like paste on the screen sites form MyFirstSite to My...Site and paste how much hours appriximately it takes)
+(give a understandable package with all sites from 0 to junior (like name of video - My(First/Second/Third...)Site - or think how you can do that clearly)
+
+Any question that you have you can simply search it in Google or if you don't find it on Google ask it on StackOverlow
+(guide how to ask on StackOverlow (and also paste html and css code without <head> tag))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guide how to sync code:
+
+Description:
+Github - https://github.com/login
+
+Github desktop - https://desktop.github.com/
+
+
+So if u need to sync your code with 2 PC to write the same code at home and at studying for example you need to:
+Go to the fitst link in the description and sing in in your git hub account if you havent github account to sing up it firtst https://prnt.sc/vU5fTfHLmfYT
+
+Than go to the second link in the description and download Githubdesktop
+
+Say how name comit (like you write pop-up and you name SiteName pop-up - if you don't finised you write SiteName pop-up tac for example - that's mean that)
+(you need make text at center)
+
+Than you go to Github desktop and pressing ctrl+N on keyboard (put https://prnt.sc/n1KgXP6J8gg7) choose what folder you want to sync (show it in the screen)
+
+To slowe this problem you need to download GitBash (link in the description) and write here (explain more shortly https://www.youtube.com/watch?v=dRNcbhx2698)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gudie MyFirstSite (make 4 part of video with timecodes and say when you finish with first part you go to the next)
+Explain about: (I'm sure its better when I explain it on going - just I'm writing site and explain all this)
+Explain how connect favicon
+!DOCTYPE
+link say that when you connect .js file you need to write <script src="">
+h1 h2 h3 h4 h5 h6
+df jcc aic - for display flex and you align thems in the some div
+tac vam - for text tac for horizontal align and vam for vertical
+<a href="https://google.com">Google</a>
+<img src="header.png">
+<div>
+id #id - to remember # its as a target id it is as object
+class=
+Inspect - styles (in Chrome) (with this you can understand what style have object - and also you can change it in browser to see how it looks like - but all changes u make here)
+(because when you refresh all turns back)
+background color
+header a:hover
+header a
+display flex and align items https://youtu.be/I84aQhbJl_Y?t=1396
+https://youtu.be/I84aQhbJl_Y?t=2050 (add about padding and margin between elements and links a { ... } margin can be in element like <a> and can be in div)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mistakes
+(show and explain all my mistakes using StackOverlow)
